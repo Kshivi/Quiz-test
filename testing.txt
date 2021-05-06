@@ -1,0 +1,31 @@
+1. How many types of constructors are available, in general, in any language?
+a) 2
+b) 3
+c) 4
+d) 5
+b
+2. Which constructor is called while assigning some object with another?
+a) Default
+b) Parameterized
+c) Copy
+d) Direct assignment is used
+c
+3.Which type of constructor cannot have a return type?
+a) Default
+b) Parameterized
+c) Copy
+d) Constructors donnot have a return type
+d
+4.Which function cannot be overloaded in C++ program?
+a)Virtual function
+b)member function
+c)Static function
+d)All can be overloaded
+c
+5.Which feature of OOPS described the reusability of code?
+a)Abstraction
+b)Encapsulation
+c)Polymorphism
+d)Inheritance
+d
+
