@@ -1,0 +1,30 @@
+1.Which of the following is not the member of class?
+a)Static function
+b)Friend function
+c)Const function
+d)Virtual function
+b
+2.The member in class by default are 
+a)Protected
+b)Static
+c)Public
+d)Private
+c
+3.What are the things are inherited from the base class?
+a)Constructor and its destructor
+b)Operator=() members
+c)Friends
+d)All of the above
+d
+4.When the properties of one class are inherited by more than one class, which is called
+a) single
+b) multiple
+c) multilevel
+d) hierarchical
+d
+5.The member functions of a derived class can directly access only the.
+a) private data and protected data
+b) private data and public data
+c) protected data and public data
+d) private data, protected data and public data
+c
